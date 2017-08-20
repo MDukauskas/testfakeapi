@@ -1,8 +1,8 @@
 {
   "users": [
-    { "name": "Mindaugas"},
-    { "name": "Gedas"},
-    { "name": "Aivaras"},
-    { "name": "Žygimantas"}
+    { "id": 1, "name": "Mindaugas"},
+    { "id": 2, "name": "Gedas"},
+    { "id": 3, "name": "Aivaras"},
+    { "id": 4, "name": "Žygimantas"}
   ]
 }
