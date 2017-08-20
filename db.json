@@ -1,6 +1,8 @@
-[
-  { 'name': 'Mindaugas'},
-  { 'name': 'Gedas'},
-  { 'name': 'Aivaras'},
-  { 'name': 'Žygimantas'}
-]
+{
+  "users": [
+    { "name": "Mindaugas"},
+    { "name": "Gedas"},
+    { "name": "Aivaras"},
+    { "name": "Žygimantas"}
+  ]
+}
